@@ -1,3 +1,9 @@
+######################################
+# Angela Speranza                      
+# angela.speranza@studio.unibo.it
+# Matricola: 0000992169
+######################################
+
 import pickle
 import socket as sk
 from time import sleep
